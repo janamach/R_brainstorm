@@ -1,3 +1,5 @@
+# Jana is learning R
+
 library(magrittr)
 
 # Generate random data
